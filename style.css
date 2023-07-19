@@ -1,0 +1,76 @@
+body{
+    background-color:#003049 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: #eae2b7;
+
+}
+
+img{
+    width: 400px;
+    height: 290px;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+
+.title-astrobiologia{
+    font-size: 40px;
+    color: #d62828;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Webb-espacial{
+    color: #eae2b7 ;
+    font-size: 50px;
+    font-family:'Belanosima', sans-serif;
+    text-align: center;
+}
+.Top-de-estrellas-más-masivas{
+    color: #f77f00;
+    font-family: 'Belanosima', sans-serif;
+    font-size: 30px;
+}
+.Misiones-espaciales{
+    color: #f77f00;
+    font-family: 'Belanosima', sans-serif;
+    font-size: 30px;
+}
+
+.Origen-del-Universo{
+    font-size: 40px;
+    color: #d62828;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+
+.Origen-de-las-Estrellas{
+    font-size: 40px;
+    color: #d62828;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header{
+    background-color: #003049;
+}
+
+header .header-right-section{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+header .header-right-section a{
+    color: #fcbf49;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 25px;
+}
+
+.Creador{
+    color: #fcbf49;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
